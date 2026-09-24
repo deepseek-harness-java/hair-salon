@@ -1,0 +1,12 @@
+server:
+  port: 18110
+spring:
+  application:
+    name: hair-salon
+  mvc:
+    async:
+      request-timeout: 180s
+e:
+  assistant:
+    harness-base-url: http://127.0.0.1:8090
+    agent-id: salon-copilot

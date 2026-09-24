@@ -1,0 +1,6 @@
+id: salon-copilot
+name: AI 美发沙龙管家
+version: 1.0.0
+author: xfg-studio
+description: AI 美发沙龙管家，支持价目查询（精剪/烫发/染发/头皮护理）、发型师查询、预约下单（要素确认）、预约查询与运营统计。
+entrypoint: cn.xiaofuge.l.plugin.SalonPlugin
